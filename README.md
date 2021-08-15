@@ -1,5 +1,6 @@
 # CPSC 210: Personal Project
 ## DnD Character Creator
+### (2020)
 
 Character creation in *Dungeons and Dragons 5e* can be a long and intricate process. The 293 page Player's Handbook, 
 with pages crammed full of choices, game mechanics and background knowledge, is an intimidating resource for new 
